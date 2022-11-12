@@ -1,3 +1,3 @@
 # bc_devs
 
-We arę startuje here
+We are starting here
